@@ -1,0 +1,33 @@
+# Archivos compilados
+*.class
+
+# Archivos de log
+*.log
+
+# Archivos de BlueJ
+*.ctxt
+
+# Archivos de Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Archivos de paquete #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Logs de crasheo de la máquina virtual
+hs_err_pid*
+
+# Directorios específicos de IDE
+.idea/
+.vscode/
+*.iml
+
+# Directorios de compilación
+out/
+target/
+build/
