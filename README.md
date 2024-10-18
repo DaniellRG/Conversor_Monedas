@@ -64,8 +64,3 @@ Las contribuciones son bienvenidas. Por favor, abre un issue para discutir los c
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
 
-## Contacto
-
-Tu Nombre - [@tu_twitter](https://twitter.com/tu_twitter) - email@example.com
-
-Link del proyecto: [https://github.com/tu-usuario/ConversorMonedas](https://github.com/tu-usuario/ConversorMonedas)
