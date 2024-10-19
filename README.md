@@ -61,6 +61,3 @@ Sigue las instrucciones en pantalla para realizar conversiones de moneda.
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
-<<<<<<< HEAD
-
->>>>>>> 01a77f38b5c095fd994d2dd2d90f445a8a70f3ce
