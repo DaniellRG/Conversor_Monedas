@@ -56,9 +56,7 @@ Sigue las instrucciones en pantalla para realizar conversiones de moneda.
 - [Gson](https://github.com/google/gson): Para el manejo de JSON
 - [Java HTTP Client](https://openjdk.java.net/groups/net/httpclient/intro.html): Para realizar peticiones HTTP a la API de tasas de cambio
 
-## Contribuir
-
-Las contribuciones son bienvenidas. Por favor, abre un issue para discutir los cambios propuestos o crea un pull request con tus mejoras.
+## Demostración
 
 ![Demostración](assets/Conversordemonedas.gif)
 
