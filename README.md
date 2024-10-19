@@ -62,7 +62,4 @@ Las contribuciones son bienvenidas. Por favor, abre un issue para discutir los c
 
 ![Demostración](assets/Conversordemonedas.gif)
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
 
